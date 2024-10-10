@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "92612180891",
+    "firebase_url": "https://projetomobile-91180-default-rtdb.firebaseio.com",
+    "project_id": "projetomobile-91180",
+    "storage_bucket": "projetomobile-91180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92612180891:android:ace0b7f2381a6dffdc3f3e",
+        "android_client_info": {
+          "package_name": "com.mycompany.projetomobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92612180891-ccpj8erdjcnm4dbc2mbdqpakfpek1lc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJXIJy_1qvgNzUUtgEaLahgkIxj5biC6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92612180891-4ca9ghul0o2u1rf9b8c5mm1qmqoln8ca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92612180891-g5ho1l9590i3789cavtl7u100s8doke7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.paisagismo.projetomobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92612180891:android:0e2cf7f18c118435dc3f3e",
+        "android_client_info": {
+          "package_name": "com.paisagismo.projetomobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92612180891-pb0hsj7qm7aieufeoh7n2br5oncniml4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paisagismo.projetomobile",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "92612180891-ccpj8erdjcnm4dbc2mbdqpakfpek1lc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJXIJy_1qvgNzUUtgEaLahgkIxj5biC6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92612180891-4ca9ghul0o2u1rf9b8c5mm1qmqoln8ca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92612180891-g5ho1l9590i3789cavtl7u100s8doke7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.paisagismo.projetomobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
